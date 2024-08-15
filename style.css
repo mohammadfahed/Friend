@@ -68,7 +68,7 @@ body {
         
     }}
 @media (max-width:390px){
-    .box h1 {
+    .box {
         margin-top: 200px;
         display: block;
        margin-left: 9%;
