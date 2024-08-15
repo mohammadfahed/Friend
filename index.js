@@ -1,7 +1,7 @@
 const target = document.getElementById('target');
     function moveTarget() {
-        const maxWidth =200;
-        const maxHeight = 200;
+        const maxWidth =100;
+        const maxHeight = 100;
     
         const randomX = Math.floor(Math.random() * maxWidth);
         const randomY = Math.floor(Math.random() * maxHeight);
